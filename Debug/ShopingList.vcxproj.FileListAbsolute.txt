@@ -1,0 +1,2 @@
+C:\Users\mitro\source\repos\ShopingList\Debug\ShopingList.exe
+C:\Users\mitro\source\repos\ShopingList\Debug\ShopingList.pdb
